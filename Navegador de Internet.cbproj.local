@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/13 00:10:44.000.445,=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/07/13 00:10:45.000.162,=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/07/13 00:11:00.000.733,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Navegador de Internet\Navegador de InternetPCH1.h</Transaction>
+    <Transaction>2025/07/13 00:11:00.000.780,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Navegador de Internet\Navegador de Internet.cbproj</Transaction>
+    <Transaction>2025/07/13 00:11:00.000.757,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Navegador de Internet\Unit1.h</Transaction>
+    <Transaction>2025/07/13 00:11:00.000.757,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Navegador de Internet\Unit1.cpp</Transaction>
+    <Transaction>2025/07/13 00:11:00.000.757,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Navegador de Internet\Unit1.dfm</Transaction>
+    <Transaction>2025/07/13 00:11:05.000.650,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Navegador de Internet\Unit1.cpp=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Navegador de Internet\main.cpp</Transaction>
+    <Transaction>2025/07/13 00:11:05.000.650,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Navegador de Internet\Unit1.h=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Navegador de Internet\main.h</Transaction>
+    <Transaction>2025/07/13 00:11:05.000.650,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Navegador de Internet\Unit1.dfm=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Navegador de Internet\main.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
