@@ -1,1 +1,5 @@
-429: Too Many Requests
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+*.cbproj linguist-language=C++
+*.local linguist-language=C++
+*.dfm linguist-language=C++
